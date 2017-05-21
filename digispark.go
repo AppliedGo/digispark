@@ -150,7 +150,7 @@ After everything was in place, I wrote the below code to make the onboard LED bl
 <iframe src="https://player.vimeo.com/video/218360443" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-But now to the code:
+But now on to the code:
 
 */
 
