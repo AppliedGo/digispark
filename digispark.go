@@ -57,7 +57,7 @@ With a few more (software) ingredients, the I/O ports can be controlled from Go 
 * The `micronucleus` cli app
 * Gobot
 
-[LittleWire](http://littlewire.cc) is basically a script that adds USB communication capabilities to the Digispark. With an accompanying library at the USB host's end, the board's I/O ports can be remote-controlled from an app running on the host.
+[LittleWire](http://littlewire.github.io) is basically a script that adds USB communication capabilities to the Digispark. With an accompanying library at the USB host's end, the board's I/O ports can be remote-controlled from an app running on the host.
 
 [`micronucleus`](https://github.com/micronucleus/micronucleus) is a bootloader that comes preinstalled with Digisparks. (It needs a little space in the microcontroller's flash memory, leaving about 6KB memory available for scripts.) It has a companion CLI app that is needed for installing LittleWire on the device.
 
@@ -102,9 +102,7 @@ Again, only two steps are required.
 
 #### Download littlewire_13.hex
 
-The "firmware" script LittleWire is available at [the LittleWire download page](http://littlewire.cc/downloads.html)
-
-Note: While writing this, I noticed that the site seems not consistently available, but luckily you can access an [archived version](https://web.archive.org/web/20161024004122/http://littlewire.cc/downloads.html) at the Web Archive.
+The "firmware" script LittleWire is available at [the LittleWire download page](http://littlewire.github.io/downloads.html)
 
 
 #### Install LittleWire on the device
