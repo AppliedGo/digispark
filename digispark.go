@@ -26,7 +26,7 @@ email = "chris@appliedgo.net"
 date = "2017-05-21"
 draft = "false"
 domains = ["Robotics"]
-tags = ["digispark", "microcontroller", "littlewire", "gobot", "hardware", "iot"]
+tags = ["Digispark", "Microcontroller", "LittleWire", "Gobot", "Hardware", "IoT"]
 categories = ["Project"]
 +++
 
