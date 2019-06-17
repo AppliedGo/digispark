@@ -25,9 +25,9 @@ author = "Christoph Berger"
 email = "chris@appliedgo.net"
 date = "2017-05-21"
 draft = "false"
-domains = ["Robotics"]
+categories = ["Robotics"]
 tags = ["Digispark", "Microcontroller", "LittleWire", "Gobot", "Hardware", "IoT"]
-categories = ["Project"]
+articletypes = ["Project"]
 +++
 
 The Digispark is perhaps as small as a microcontroller board for DIY electronics can get. This is a short writedown about my first experiences with controlling this board through Go code, using Gobot and LittleWire.
@@ -123,7 +123,7 @@ Anyway, the Digispark board is now ready to receive commands. Time to write some
 
 After everything was in place, I wrote the below code to make the onboard LED blink and let a servo move from 0 to 180 degrees in steps of 45 degrees. This video shows the outcome:
 
-<iframe src="https://player.vimeo.com/video/218360443" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< youtube p0mEksHmzeU >}}
 
 
 But now on to the code:
