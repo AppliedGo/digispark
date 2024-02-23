@@ -1,3 +1,5 @@
+package main
+
 /*
 <!--
 Copyright (c) 2017 Christoph Berger. Some rights reserved.
@@ -22,7 +24,7 @@ Comments and code in this file are used for describing and explaining a particul
 author = "Christoph Berger"
 email = "chris@appliedgo.net"
 date = "2017-05-21"
-draft = "false"
+draft = "true"
 +++
 
 

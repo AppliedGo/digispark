@@ -28,6 +28,8 @@ draft = "false"
 categories = ["Robotics"]
 tags = ["Digispark", "Microcontroller", "LittleWire", "Gobot", "Hardware", "IoT"]
 articletypes = ["Project"]
+[_build]
+  publishResources = false
 +++
 
 The Digispark is perhaps as small as a microcontroller board for DIY electronics can get. This is a short writedown about my first experiences with controlling this board through Go code, using Gobot and LittleWire.
@@ -130,7 +132,6 @@ But now on to the code:
 
 */
 
-//
 package main
 
 import (
