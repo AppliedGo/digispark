@@ -52,8 +52,7 @@ This tiny board connects directly to an USB port of a host computer and can be e
 
 - - -
 
-**UPDATE:** Since the article was first published, the installation steps have considerably changed, and are even simpler now, thanks to the helpful comment from Ron Evans of gobot.io. Hence most of the following section has been rewritten. (The original article is available [here]({{< relref "digispark_old.md" >}}) but it is really only of historical interest.)
-
+**UPDATE:** Since the article was first published, the installation steps have considerably changed, and are even simpler now, thanks to the helpful comment from Ron Evans of gobot.io. Hence most of the following section has been rewritten. 
 
 - - -
 
